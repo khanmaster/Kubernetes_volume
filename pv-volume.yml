@@ -16,4 +16,4 @@ spec:
     - ReadWriteOnce
 
   hostPath:
-    path: "/Users/ahshahrukhkhan/Kubernetes_volume"
+    path: "/enter/absolute/path"
